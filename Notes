@@ -1,0 +1,23 @@
+Block element - However tall specified and full width (Div)
+Inline element - Only as tall and as wide as it has to be (Span)
+
+i - italic (Inline element)
+b - bold (Inline element)
+p - paragraph (Block element)(Adds space above and below)
+a - link (Inline element)(Adds link if href property used)
+ul - unordered list (Block element)(Creates bullet point list)
+ol - orderer list (Block element)(Creates numbered list)
+li - list item (Block element)(Creates list item)
+br - break element (Closed block element)(Adds line break)
+h[1-6] - heading (Inline element)(Modifies text size based on number)
+
+href - hypertext reference (Property)(href="[link]")
+
+&copy; - copyright logo (Ascii code)
+&nbsp; - blank space (Ascii code)
+
+header - header (Block element)(HTML5 tag)
+footer - footer (Block element)(HTML5 tag)
+article - article (Block element)(HTML5 tag)
+main - main (Block element)(HTML5 tag)
+section - section(Block element)(HTML5 tag)
