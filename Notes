@@ -1,5 +1,5 @@
-Block element - However tall specified and full width (Div)
-Inline element - Only as tall and as wide as it has to be (Span)
+block element - However tall specified and full width (Div)
+inline element - Only as tall and as wide as it has to be (Span)
 
 i - italic (Inline element)
 b - bold (Inline element)
@@ -10,6 +10,11 @@ ol - orderer list (Block element)(Creates numbered list)
 li - list item (Block element)(Creates list item)
 br - break element (Closed block element)(Adds line break)
 h[1-6] - heading (Inline element)(Modifies text size based on number)
+table - table (Block element)(Creates table)
+thead - table header(Block element)(Creates table header)
+th - table heading(Inline element)(Creates a table column heading)
+tr - table row(Inline element)(Creates a table row)
+td - table data(Inline element)(Creates a table column)
 
 href - hypertext reference (Property)(href="[link]")
 
