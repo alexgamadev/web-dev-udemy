@@ -15,6 +15,10 @@ thead - table header(Block element)(Creates table header)
 th - table heading(Inline element)(Creates a table column heading)
 tr - table row(Inline element)(Creates a table row)
 td - table data(Inline element)(Creates a table column)
+img - image(Inline element)(Creates an image)
+form - form(Block element)(Creates a form)
+  method = "GET" or "POST"
+  action = script to process
 
 href - hypertext reference (Property)(href="[link]")
 
